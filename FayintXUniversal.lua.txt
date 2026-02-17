@@ -1435,7 +1435,7 @@ local v2698 = {
         if v356 then
             _Parent2.welcome.Text = v356 .. ', ' .. _LocalPlayer.DisplayName
         else
-            _Parent2.welcome.Text = 'Welcome to fayint universal, ' .. _LocalPlayer.DisplayName
+            _Parent2.welcome.Text = 'Welcome to Alchemist universal, ' .. _LocalPlayer.DisplayName
         end
         if v357 then
             u102['1dc'].Value = v357.clr
