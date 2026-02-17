@@ -1055,7 +1055,7 @@ u102['10'].BackgroundTransparency = 1
 u102['10'].RichText = true
 u102['10'].Size = UDim2.new(1.34109, 0, 0.56, 0)
 u102['10'].BorderColor3 = Color3.fromRGB(0, 0, 0)
-u102['10'].Text = 'Fayint universal ' .. v4
+u102['10'].Text = 'Alchemist universal ' .. v4
 u102['10'].Name = 'titletext'
 u102['10'].Position = UDim2.new(-0.00094, 0, 0.2, 0)
 
